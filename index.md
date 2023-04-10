@@ -1,7 +1,1 @@
-Katunizer apps provide user to cartoonize photo by selecting photo from photo gallery and can be shared to social network.
-
-Katunizer apps also provide user to cartoonize photo right from photo apps editing mode.
-
-Katunizer apps also provide user to integrate via iOS shortcut action.
-
-Our new apps [Katunizer](https://apps.apple.com/sg/app/katunizer/id1660266524) available download at Apple Appstore.
+Chat with Document is a mobile app that revolutionizes the way you communicate about PDF documents. With advanced natural language processing capabilities, our AI-powered chatbot allows you to summarize, translate, and rewrite the content of your PDFs with ease. Whether you're collaborating on a business proposal or studying for an exam, Chat with Document helps you extract the most important information and communicate about it effectively. You can even change the style of your document to fit your needs. With Chat with Document, you're in control of your document communication like never before. 
